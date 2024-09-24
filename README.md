@@ -1,1 +1,1 @@
-https://github.com/amaratusa/ono-tebe-nado-main
+https://github.com/amaratusa/ono-tebe-nado
